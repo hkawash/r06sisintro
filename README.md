@@ -8,10 +8,10 @@
 
 - [パート1（データの収集） (5/9)](slide/SISIntro2024_kawashima-01.pdf)
 - [パート2（データと統計 + データとプログラム：基礎編) (5/16)](slide/SISIntro2024_kawashima-02.pdf)
-
-<!--
 - [パート3（データとプログラム：実践） (5/23)](slide/SISIntro2024_kawashima-03.pdf)
     - Scratch 3をインストールしておいてください
+
+<!--
 - [パート4（データと機械学習） (5/30)](slide/SISIntro2024_kawashima-04.pdf)
 -->
 
